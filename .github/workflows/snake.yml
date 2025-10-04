@@ -1,0 +1,38 @@
+# Nome do Workflow
+name: Generate Snake Animation
+
+# Gatilhos: Quando a ação vai rodar
+on:
+  schedule:
+    # Roda todo dia à meia-noite
+    - cron: "0 0 * * *"
+  
+  # Permite que você rode a ação manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Gera o arquivo da animação
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # Pega seu nome de usuário do GitHub automaticamente
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Define os arquivos de saída
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Salva a animação gerada no repositório
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          # Commita os arquivos para o branch 'output'
+          target_branch: output
+          build_dir: dist
+        env:
+          # Token de permissão para a Action poder escrever no seu repositório
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
