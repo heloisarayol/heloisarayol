@@ -22,8 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           # Define os arquivos de saída
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=dracula
+          outputs: dist/github-contribution-grid-snake.svg?palette=dracula
 
       # Salva a animação gerada no repositório
       - name: Push snake animation
