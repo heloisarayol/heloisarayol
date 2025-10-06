@@ -11,7 +11,8 @@
     Hi There, I'm Heloisa!
   </h3>
 
-  <img src="https://img.shields.io/badge/Front_end%20Developer-FF5494?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=FF5494"/>
+  <img src="https://img.shields.io/badge/Front_end-FF5494?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=FF5494"/>
+  <img src="https://img.shields.io/badge/Android-6EE2A4?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=FF5494"/>
     <p  style="text-align: justify;" width="1200px" >
     👩‍💻 Front-End Software Developer with a passion for the intersection of design and technology.<br>
     🚀 Currently building intuitive, user-centric solutions for both Web (React) and Mobile (Android) at MAIMA Soluções.<br>
@@ -20,24 +21,11 @@
   </p>
 </div>
 
-  
 
-
-  <table width="100%">
-      <tbody>
-        <tr align="center">
-          <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Profile details badge"/>
-          </td>
-        </tr>
-        <tr align="center">
-          <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisarayol&theme=radical" alt="General stats badge"/>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Top languages by repo badge"/>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Profile details badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisarayol&theme=radical" alt="General stats badge"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Top languages by repo badge"/>
+          
 </div>
 
 
