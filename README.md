@@ -44,6 +44,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
+
+<hr>
+
+<div align="start">
+  <h3> GitHub Summary </h3>   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisarayol&theme=radical" alt="Heloisa Rayol's GitHub stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Heloisa Rayol's top languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Heloisa Rayol's GitHub profile details"/>
+ 
+</div>
    
 <img width="1200px"  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF5494,100:BAFFFE&section=footer"/>
           
