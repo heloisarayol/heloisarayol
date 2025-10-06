@@ -13,9 +13,21 @@
       🎨 Skilled in the full project lifecycle, from UX/UI prototyping in Figma to final production implementation.<br>
       🌱 Always seeking new challenges to grow as a developer and contribute to innovative teams.<br>
     </p>
+  <div>
+    <h4>
+     Find Me Online
+    </h4>
+    <a href="https://www.linkedin.com/in/heloisa-rayol/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:helo.rayol@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+</div>
     
   <hr>
- <div>
+ <div align="start">
   <h3>Skills & Tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
