@@ -4,7 +4,7 @@
 </div> -->
 
 <div align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:BAFFFE,100:FF5494&fontAlign=33&descAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:BAFFFE,100:FF5494&fontAlign=33&descAlignY=36"/>
   <table width="100%">
       <tbody>
         <tr align="center">
