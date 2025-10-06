@@ -5,19 +5,21 @@
 
 <div align="center">
   <img  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:BAFFFE,100:FF5494&fontAlign=33&descAlignY=36"/>
-  <table >
-      <tr align="center">
-        <td>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Profile details badge"/>
-        </td>
-      </tr>
-      <tr align="center">
-        <td>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisarayol&theme=radical" alt="General stats badge"/>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Top languages by repo badge"/>
-        </td>
-      </tr>
-  </table>
+  <table width="100%">
+      <tbody>
+        <tr align="center">
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Profile details badge"/>
+          </td>
+        </tr>
+        <tr align="center">
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heloisarayol&theme=radical" alt="General stats badge"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Top languages by repo badge"/>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   
 </div>
   
