@@ -13,16 +13,25 @@
       🎨 Skilled in the full project lifecycle, from UX/UI prototyping in Figma to final production implementation.<br>
       🌱 Always seeking new challenges to grow as a developer and contribute to innovative teams.<br>
     </p>
+    
   <hr>
-
-  <h3>My Contribuition Journey</h3>
-  <img src="https://raw.githubusercontent.com/heloisarayol/heloisarayol/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-  </div>
-
-
-   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heloisarayol&theme=radical" alt="Profile details badge"/> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heloisarayol&theme=radical" alt="Top languages by repo badge"/>
-
+ <div>
+  <h3>Skills & Tools</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+</div>
+   
 
           
 </div>
