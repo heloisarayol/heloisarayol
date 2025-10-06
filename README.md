@@ -45,7 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
    
-
+<img width="1200px"  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF5494,100:BAFFFE&section=footer"/>
           
 </div>
 
