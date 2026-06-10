@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Android-6EE2A4?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=FF5494"/>
       <p align="start">
       👩‍💻 Front-End Software Developer with a passion for the intersection of design and technology.<br>
-      🚀 Currently building intuitive, user-centric solutions for both Web (React) and Mobile (Android) at MAIMA Soluções.<br>
+      🚀 Currently building intuitive, user-centric solutions for both Web (React) and Mobile (Android) at Conecto Sistemas.<br>
       🎨 Skilled in the full project lifecycle, from UX/UI prototyping in Figma to final production implementation.<br>
       🌱 Always seeking new challenges to grow as a developer and contribute to innovative teams.<br>
     </p>
